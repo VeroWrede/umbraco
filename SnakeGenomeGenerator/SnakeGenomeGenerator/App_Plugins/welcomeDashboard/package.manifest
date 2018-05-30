@@ -1,9 +1,0 @@
-{
-    "javascript":[
-        /*javascript files listed here*/
-    ],
-    "css": [
-        /*list of stylesheets appear here:*/
-        "~/app_plugins/CustomWelcomeDashboard/customwelcomedashboard.css"
-    ]
-}
